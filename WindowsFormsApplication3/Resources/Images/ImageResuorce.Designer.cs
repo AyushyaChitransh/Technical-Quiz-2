@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApplication3.Resources.Images {
+namespace TechnicalQuiz2.Resources.Images {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace WindowsFormsApplication3.Resources.Images {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WindowsFormsApplication3.Resources.Images.ImageResuorce", typeof(ImageResuorce).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TechnicalQuiz2.Resources.Images.ImageResuorce", typeof(ImageResuorce).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

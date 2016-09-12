@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication3
+﻿namespace TechnicalQuiz2
 {
     partial class BreachOneQuestion
     {
@@ -126,7 +126,7 @@
             this.AcceptButton = this.buttonSubmit;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication3.Resources.Images.ImageResuorce.graphic;
+            this.BackgroundImage = global::TechnicalQuiz2.Resources.Images.ImageResuorce.graphic;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1006, 583);
             this.Controls.Add(this.label1);

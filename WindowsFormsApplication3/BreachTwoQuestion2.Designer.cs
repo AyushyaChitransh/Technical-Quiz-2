@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication3
+﻿namespace TechnicalQuiz2
 {
     partial class BreachTwoQuestion2
     {

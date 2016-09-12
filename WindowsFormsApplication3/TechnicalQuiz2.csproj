@@ -7,8 +7,8 @@
     <ProjectGuid>{1C0B34D6-19FB-4B1D-8AED-BDD33AEFA069}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication3</RootNamespace>
-    <AssemblyName>WindowsFormsApplication3</AssemblyName>
+    <RootNamespace>TechnicalQuiz2</RootNamespace>
+    <AssemblyName>TechnicalQuiz2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

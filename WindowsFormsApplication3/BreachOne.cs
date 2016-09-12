@@ -8,9 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApplication3.Resources.Questions;
+using TechnicalQuiz2.Resources.Questions;
 
-namespace WindowsFormsApplication3
+namespace TechnicalQuiz2
 {
     public partial class BreachOne : Form
     {

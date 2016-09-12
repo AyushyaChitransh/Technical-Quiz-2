@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication3
+namespace TechnicalQuiz2
 {
 
     public partial class BreachOneQuestion : Form

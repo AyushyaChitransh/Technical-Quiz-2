@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication3
+﻿namespace TechnicalQuiz2
 {
     partial class Welcome
     {
@@ -73,7 +73,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication3.Resources.Images.ImageResuorce.ultron;
+            this.BackgroundImage = global::TechnicalQuiz2.Resources.Images.ImageResuorce.ultron;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(720, 442);
             this.Controls.Add(this.label1);
